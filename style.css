@@ -1,0 +1,66 @@
+body{
+    background-color: #CCFFFF
+    ;
+    background-image: url(pexels-pixabay-531880.jpg)
+.navbar{
+    background-color: #333300;
+}
+
+.list{
+    text-decoration-color: white;
+    
+    align-items: center;
+    text-align: center;
+    border: 2px solid rgb(103, 66, 66);
+    border-radius: 20px;
+    margin-top: 50px;
+    width: 25%;
+    margin-left: 50%;
+    box-shadow: 10px 10px 10px;
+}
+
+.about{
+    
+    text-shadow: 10px 10px 10px;
+    margin-top:10% ;
+    text-decoration: underline;
+    background-color: ;
+
+
+}
+
+.education{
+    text-align: center;
+    margin-left: 50%;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+
+}
+
+.marque{
+    background-color: darkgrey;
+}
+
+.objective{
+    text-decoration: underline;
+    text-shadow: 10px 10px 10px;
+}
+
+
+.skills{
+    text-decoration: underline;
+    text-shadow: 10px 10px 10px;
+    
+}
+
+.Skills{
+    text-shadow: 10px 10px 10px;
+
+}
+
+.box{
+    border: 2px solid brown;
+    width: 250px;
+    text-align: center;
+}
